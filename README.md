@@ -14,34 +14,28 @@
     <col width="200">
     <col>
   </colgroup>
-  <thead>
-    <tr>
-      <th>地址</th>
-      <th>&nbsp;</th>
-      <th>&nbsp;</th>
-    </tr> 
-  </thead>
+ 
   <tbody>
     <tr>
       <td>最新地址</td>
-      <td>&nbsp;</td>
       <td>点击进入</td>
+      
     </tr>
     <tr>
       <td>最新地址2</td>
-      <td>&nbsp;</td>
       <td>点击进入</td>
+      
     </tr>
     =>
     <tr>
       <td>VIP通道</td>
-      <td>&nbsp;</td>
       <td>点击进入</td>
+      
     </tr>
     <tr>
       <td>VIP通道</td>
-      <td>&nbsp;</td>
       <td>点击进入</td>
+     
     </tr>
   </tbody>
 </table>   
